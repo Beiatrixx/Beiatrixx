@@ -1,4 +1,4 @@
-<img align="right" alt="Girl with glasses avatar created by Leonardo.AI - app.leonardo.ai" height="200" width="200" src="https://github.com/Beiatrixx/dio-lab-open-source/blob/main/images/my_avatar_style.jpg">Add commentMore actions
+<img align="right" alt="Girl with glasses avatar created by Leonardo.AI - app.leonardo.ai" height="200" width="200" src="https://github.com/Beiatrixx/dio-lab-open-source/blob/main/images/my_avatar_style.jpg">
 
 <h1>
     <div align="center">  
